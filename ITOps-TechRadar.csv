@@ -9,3 +9,14 @@ GitHub,Maintain,Software,FALSE,
 Puppet,Maintain,Management,FALSE,
 Terraform,Maintain,Management,FALSE,
 TeamCity,Maintain,Management,FALSE,
+Dell Lattitude,Maintain,Hardware,FALSE,<p>Current standard user laptops</p>
+Slack,Maintain,Software,FALSE,<p>Internal communication chat app</p>
+Vault,Maintain,Management,FALSE,<p>Secret management </p>
+Keeper,Increase,Software,TRUE,<p>User password/secret management</p>
+VMWare,Maintain,Platform,FALSE,<p>Virtual Machine environment</p>
+AWS,Maintain,Platform,FALSE,<p>Cloud virtual machine enviroment</p>
+Zoom,Maintain,Software,FALSE,<p>Phone and Video communication</p>
+Windows 10,Maintain,Platform,FALSE,
+Windows 11,Increase,Platform,TRUE,
+Veeam Backup & Recovery,Maintain,Management,FALSE,<p>On-premise backup solution</p>
+Zendesk,Maintain,Management,FALSE,<p>Ticketting solution</p>
