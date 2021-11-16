@@ -20,3 +20,4 @@ Windows 10,Maintain,Platform,FALSE,
 Windows 11,Increase,Platform,TRUE,
 Veeam Backup & Recovery,Maintain,Management,FALSE,<p>On-premise backup solution</p>
 Zendesk,Maintain,Management,FALSE,<p>Ticketting solution</p>
+Duo,Maintain,Software,FALSE,<p>MFA tool</p>
