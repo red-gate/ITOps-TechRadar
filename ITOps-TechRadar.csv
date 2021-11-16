@@ -1,5 +1,11 @@
 name,ring,quadrant,isNew,description
-Office 365,Maintain,Software,FALSE,"<p>Office 365...</p>"
-Dell XPS,Retire,Hardware,FALSE,"<p>Dell Performance Laptop</p>"
-Azure,Increase,Platform,TRUE,"<p>Microsoft Azure</p>"
-Rancher Desktop,Investigate,Management,TRUE,"<p>Kubernetes and container management tool</p>"
+Office 365,Maintain,Software,FALSE,<p>Office 365...</p>
+Dell XPS,Retire,Hardware,FALSE,<p>Dell Performance Laptop</p>
+Azure,Increase,Platform,TRUE,<p>Microsoft Azure</p>
+Rancher Desktop,Investigate,Management,TRUE,<p>Kubernetes and container management tool</p>
+Microsoft Surface,Retire,Hardware,FALSE,<p>Old lightweight portable touchscreen laptop choice</p>
+Kubernetes,Increase,Platform,TRUE,
+GitHub,Maintain,Software,FALSE,
+Puppet,Maintain,Management,FALSE,
+Terraform,Maintain,Management,FALSE,
+TeamCity,Maintain,Management,FALSE,

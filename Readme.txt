@@ -1,15 +1,11 @@
 Fill in ITOps-Techrader.csv in the format of: name,ring,quadrant,isNew,description
 
-Available Rings:
-Maintain
-Increase
-Retire
-Investigate
+name: Name of item
 
-Available Quadrants:
-Software
-Hardware
-Management
-Platform
+Rings: Maintain / Increase / Retire / Investigate
+
+Quadrants: Software / Hardware / Management / Platform
 
 IsNew: True/False
+
+Description: Description of item, must be set within "<p>   </p>"
