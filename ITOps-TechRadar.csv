@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Office 365,Maintain,Software,FALSE,<p>Office 365...</p>
+Office 365,Maintain,Software,FALSE,"<p>Office 365...</p>"
 Dell XPS,Retire,Hardware,FALSE,"<p>Dell Performance Laptop</p>"
 Azure,Increase,Platform,TRUE,"<p>Microsoft Azure</p>"
 Rancher Desktop,Investigate,Management,TRUE,"<p>Kubernetes and container management tool</p>"
