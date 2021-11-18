@@ -1,6 +1,0 @@
-name,ring,quadrant,isNew,description
-Dell XPS,Maintain,Hardware,FALSE,<p>Dell laptop (management)</p>
-IPv6,Increase,Platform,TRUE,<p>The network technology of the future</p>
-Microsoft Defender (for endpoints),Investigate,Management,TRUE,<p>Anti-virus / anti-malware</p>
-Microsoft Surface,Retire,Hardware,FALSE,<p>Old lightweight portable touchscreen laptop choice</p>
-Fake,Retire,Software,FALSE
