@@ -1,0 +1,18 @@
+name,ring,quadrant,isNew,description
+Windows 11 - 21H2,Investigate,Windows Endpoint,TRUE,<p>End of service: 2023-10-10</p>
+Windows 10 - 21H2,Increase,Windows Endpoint,TRUE,<p>End of service: 2023-06-13</p>
+Windows 10 - 21H1,Maintain,Windows Endpoint,FALSE,<p>End of service: 2022-12-13</p>
+Windows 10 - 20H2,Retire,Windows Endpoint,FALSE,<p>End of service: 2022-05-10</p>
+Windows 10 - 2004,Retire,Windows Endpoint,FALSE,<p>End of service: 2021-12-14</p>
+Windows 10 - 1909,Retire,Windows Endpoint,FALSE,<p>No longer supported</p>
+Windows Server 2022,Investigate,Windows Server,TRUE,<p>Support ends: 2026-10-13</p>
+Windows Server 2019 - 1809,Increase,Windows Server,FALSE,<p>Support ends: 2029-01-09</p>
+Windows Server 2016 - 1607,Maintain,Windows Server,FALSE,<p>Support ends: 2027-01-11</p>
+macOS Monterey - 12,Investigate,Mac OS,TRUE,<p>Supported</p>
+macOS Big Sur - 11,Maintain,Mac OS,FALSE,<p>Supported</p>
+macOS Catalina - 10.15,Retire,Mac OS,FALSE,<p>Supported</p>
+macOS Mojave -10.14,Retire,Mac OS,FALSE,<p>No longer supported</p>
+Ubuntu 22.04 LTS,Investigate,Linux,TRUE,<p>Support ends: 2027-04</p>
+Ubuntu 20.04 LTS,Investigate,Linux,FALSE,<p>Support ends: 2025-04</p>
+Ubuntu 18.04 LTS,Maintain,Linux,FALSE,<p>Support ends: 2023-04</p>
+Ubuntu 16.04 LTS,Retire,Linux,FALSE,"<p>No longer supported, as of: 2021-04</p>"
