@@ -1,7 +1,7 @@
 name,ring,quadrant,isNew,description
-Windows 11 - 21H2,Investigate,Windows Endpoint,TRUE,<p>End of service: 2023-10-10</p>
-Windows 10 - 21H2,Increase,Windows Endpoint,TRUE,<p>End of service: 2023-06-13</p>
 Windows 10 - 21H1,Maintain,Windows Endpoint,FALSE,<p>End of service: 2022-12-13</p>
+Windows 10 - 21H2,Increase,Windows Endpoint,TRUE,<p>End of service: 2023-06-13</p>
+Windows 11 - 21H2,Investigate,Windows Endpoint,TRUE,<p>End of service: 2023-10-10</p>
 Windows 10 - 20H2,Retire,Windows Endpoint,FALSE,<p>End of service: 2022-05-10</p>
 Windows 10 - 2004,Retire,Windows Endpoint,FALSE,<p>End of service: 2021-12-14</p>
 Windows 10 - 1909,Retire,Windows Endpoint,FALSE,<p>No longer supported</p>
